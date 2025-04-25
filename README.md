@@ -1,2 +1,2 @@
-# Revision-
-apna college leacture revision
+# Revision
+Apna college lecture revision
